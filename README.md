@@ -2,7 +2,8 @@
 Repository ini berisi kumpulan tugas dari mata kuliah **Praktikum Algoritma dan Struktur Data** menggunakan bahasa pemrograman **C++**.
 
 ## Daftar Tugas
-**Tugas 1** — Program pengelolaan data karyawan dan barang (Cocoa Heaven)
+**Tugas 1**
+Program pengelolaan data karyawan dan barang (Cocoa Heaven)
 ### Fitur
 * Login Admin
 * Pengelolaan data karyawan
@@ -10,8 +11,7 @@ Repository ini berisi kumpulan tugas dari mata kuliah **Praktikum Algoritma dan 
 * Sorting (Bubble Sort & Quick Sort)
 * Searching (Sequential Search & Binary Search)
 * Penyimpanan data menggunakan file `.txt`
-
-## Login Admin
+### Login Admin
 Username: `admin`
 Password: `123`
 
