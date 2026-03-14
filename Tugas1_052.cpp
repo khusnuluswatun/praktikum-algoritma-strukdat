@@ -256,7 +256,7 @@ void bubbleSortAsc(){ //asc
 	}
 }
 
-void quick_sort(int awal, int akhir) { //desc
+void quick_sort(int awal, int akhir) { //descending
 	int low = awal, high = akhir;
 	int pivot = dtbrg[(awal + akhir) / 2].harga;
 	do {
@@ -307,8 +307,8 @@ void quickSortDesc(){
 
 void lihatBarang(){
 	int psort = 0;
-	cout << "\n1. Ascending" << endl;  //bublesort
-	cout << "2. Descending" << endl; //quicksort
+	cout << "\n1. Ascending" << endl;  //bubble sort
+	cout << "2. Descending" << endl; //quick sort
 	
 	while(psort != 1 && psort != 2){
 		cout << "Pilih sorting: ";
